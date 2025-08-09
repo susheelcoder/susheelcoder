@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome | Susheel_Coder</title>
+    <link rel="icon" type="image/png" href="icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GK8T4YL9YG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GK8T4YL9YG');
+</script>
+
+
+
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            flex-direction: column;
+            color: white;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .logo {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .tagline {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 30px;
+        }
+
+        .loader {
+            position: relative;
+            width: 120px;
+            height: 120px;
+            margin-bottom: 30px;
+        }
+
+        .loader-circle {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border: 8px solid rgba(255,255,255,0.1);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1.5s linear infinite;
+        }
+
+        .loader-inner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 1.4;
+        }
+
+        @keyframes spin {
+            100% { transform: rotate(360deg); }
+        }
+
+        .progress-container {
+            width: 200px;
+            height: 4px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 2px;
+            overflow: hidden;
+            margin-top: 20px;
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 0%;
+            background: white;
+            animation: progress 3s linear forwards;
+        }
+
+        @keyframes progress {
+            0% { width: 0%; }
+            100% { width: 100%; }
+        }
+
+        .tech-icons {
+            display: flex;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        .tech-icon {
+            font-size: 24px;
+            opacity: 0;
+            animation: fadeIn 0.5s forwards;
+        }
+
+        @keyframes fadeIn {
+            to { opacity: 0.7; }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="logo">Susheel_Coder</div>
+    <div class="tagline">Coding Innovation, Building Solutions</div>
+
+    <div class="loader">
+        <div class="loader-circle"></div>
+        <div class="loader-inner">
+            <!-- Loading... -->
+            Visitor No.: <span id="visitor-number">...</span>
+        </div>
+    </div>
+
+    <div class="progress-container">
+        <div class="progress-bar"></div>
+    </div>
+
+    <div class="tech-icons">
+        <i class="fab fa-html5 tech-icon" style="animation-delay: 0.2s"></i>
+        <i class="fab fa-css3-alt tech-icon" style="animation-delay: 0.4s"></i>
+        <i class="fab fa-js tech-icon" style="animation-delay: 0.6s"></i>
+        <i class="fab fa-react tech-icon" style="animation-delay: 0.8s"></i>
+        <i class="fab fa-node-js tech-icon" style="animation-delay: 1s"></i>
+    </div>
+
+    <script>
+        // Visitor number logic (localStorage-based)
+        let visitorNumber = localStorage.getItem('visitorNumber');
+        if (!visitorNumber) {
+            visitorNumber = 1;
+        } else {
+            visitorNumber = parseInt(visitorNumber) + 1;
+        }
+        localStorage.setItem('visitorNumber', visitorNumber);
+
+        // Display it
+        document.getElementById('visitor-number').textContent = `#${visitorNumber}`;
+
+        // Redirect after 2 seconds
+        setTimeout(function() {
+            window.location.href = "main_page/home/index.html";
+        }, 1000);
+    </script>
+</body>
+</html>
