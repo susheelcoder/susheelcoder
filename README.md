@@ -18,4 +18,4 @@ JavaScript
 
 📬 Contact
 Website: https://susheel-coder.netlify.app
-Email: your-techiesusheel@gmail.com
+Email: your- techiesusheel@gmail.com
