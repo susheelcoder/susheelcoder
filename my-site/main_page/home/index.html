@@ -28,7 +28,7 @@
     <header class="header">
         <div class="logo">
             <div class="footer-logo-text ">
-                <a href="/">🖐️</a> Susheel<span style="color: rgb(150, 89, 230); ">_Coder</span>
+                <a href="/">🖐️</a> Susheel<span style="color: rgb(220, 12, 235); ">_Coder</span>
             </div>
         </div>
         <nav class="nav">
@@ -37,7 +37,7 @@
                 <!-- <li><a href="#home">home</a></li> -->
                 <li><a href="#about">about</a></li>
                 <li><a href="#skills">skills</a></li>
-                <li style="background-color: rgba(230, 78, 177, 0.913);"><a
+                <li style="border-radius: 10px; background-color: rgba(215, 93, 173, 0.45);"><a
                         href="https://techiesusheel.netlify.app/gift/">Gift</a></li>
                 <li><a href="#projects">projects</a></li>
 
@@ -74,7 +74,18 @@
                 </div>
             </div>
             <div class="rightSection">
-                <img src="img/about.jpg" alt="Developer Image">
+                <img id="img" src="img/Developer_Image.png" width="200px" onclick="changeImage()">
+
+                <script>
+                    let images = ['img/icon.png', 'img/about.jpg', 'img/icon.png', 'img/about.jpg'];
+                    let index = 0;
+
+                    function changeImage() {
+                        index = (index + 1) % images.length; // loop through images
+                        document.getElementById('img').src = images[index];
+                    }
+                </script>
+                <!-- <img src="img/about.jpg" alt="Developer Image"> -->
             </div>
 
         </section>
@@ -140,6 +151,7 @@
                 <span class="skill-badge">CSS</span>
                 <span class="skill-badge">JavaScript</span>
                 <span class="skill-badge">Git & GitHub</span>
+                <span class="skill-badge">PHP</span>
                 <span class="skill-badge">Figma</span>
                 <span class="skill-badge">Node.js</span>
                 <!-- <span class="skill-badge">Tailwind CSS</span> -->
@@ -261,8 +273,7 @@
                     <div class="project-content">
                         <h3>Chrome Extensions</h3>
                         <p>A personal portfolio website built using HTML, CSS, and JavaScript.</p>
-                        <button><a href="#"
-                                onclick="alert('Viewing Project 1')">View Project</a></button>
+                        <button><a href="#" onclick="alert('Viewing Project 1')">View Project</a></button>
                     </div>
                 </div>
 
@@ -276,30 +287,28 @@
                                 onclick="alert('Viewing Project 2')">View Project</a></button>
                     </div>
                 </div>
-                 <!-- Project 3  -->
+                <!-- Project 3  -->
                 <div class="project-card">
                     <img src="img/Project3.jpg" alt="Project 2 preview" class="project-image" />
                     <div class="project-content">
                         <h3>...</h3>
                         <!-- <p>smart-attendance website built using HTML, CSS, JavaScript, node.js and mySQL .</p> -->
-                        <button><a href="#"
-                                onclick="alert('Viewing Project 2')">View Project</a></button>
+                        <button><a href="#" onclick="alert('Viewing Project 2')">View Project</a></button>
                     </div>
                 </div>
-                  <!-- Project 4  -->
+                <!-- Project 4  -->
                 <div class="project-card">
                     <img src="img/Project5.png" alt="Project 2 preview" class="project-image" />
                     <div class="project-content">
                         <h3>...</h3>
                         <!-- <p>smart-attendance website built using HTML, CSS, JavaScript, node.js and mySQL .</p> -->
-                        <button><a href="#"
-                                onclick="alert('Viewing Project 2')">View Project</a></button>
+                        <button><a href="#" onclick="alert('Viewing Project 2')">View Project</a></button>
                     </div>
                 </div>
 
                 <div class="project-card"> ... </div>
                 <div class="project-card"> ... </div>
-                
+
             </div>
         </section>
 
