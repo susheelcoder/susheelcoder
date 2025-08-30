@@ -1,48 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Primary Meta Tags -->
-<title>Susheel_Coder </title>
-<meta name="description" content="Welcome to Susheel_Coder — a modern web developer portfolio showcasing HTML5, CSS3, and JavaScript projects. Explore responsive designs, clean UI, and contact me for collaborations.">
-<meta name="keywords" content="Susheel_Code, Web Developer, Portfolio Website, HTML5, CSS3, JavaScript, Responsive Design, Clean UI, Frontend Developer, Susheel">
-<meta name="author" content="susheel_coder">
+    <meta name="keywords"
+        content="susheelcoder, Web Developer, Portfolio Website, HTML5, CSS3, JavaScript, Responsive Design, Clean UI, Frontend Developer, Susheel">
+    <meta name="author" content="susheelcoder">
+    <meta property="og:title" content="SusheelCoder | Web Developer Portfolio">
+    <meta property="og:description"
+        content="Explore my personal portfolio — responsive designs, modern UI, and creative web projects using HTML, CSS, and JavaScript.">
+    <meta property="og:image" content="https://susheelcoder.netlify.app/your-preview-image.jpg">
+    <meta property="og:url" content="https://susheelcoder.netlify.app">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SusheelCoder | Web Developer Portfolio">
+    <meta name="twitter:description"
+        content="Showcasing HTML, CSS, and JavaScript projects with responsive designs and a clean, modern UI.">
+    <meta name="twitter:image" content="https://susheelcoder.netlify.app/your-preview-image.jpg">
+    <meta name="keywords"
+        content="SusheelCoder, susheelcoder,techiesusheel,skpandit25, web developer, HTML, CSS, JavaScript, frontend developer, full stack developer, portfolio website, responsive design, UI UX designer, website creator, web programmer, coding projects, personal portfolio, modern web design">
 
-<!-- Open Graph (for social media) -->
-<meta property="og:title" content="Susheel_Coder | Web Developer Portfolio">
-<meta property="og:description" content="Explore my personal portfolio — responsive designs, modern UI, and creative web projects using HTML, CSS, and JavaScript.">
-<meta property="og:image" content="https://susheel_coder.netlify.app/your-preview-image.jpg">
-<meta property="og:url" content="https://susheel-coder.netlify.app">
-<meta property="og:type" content="website">
+         <!-- ✅ Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Delius&family=Dosis:wght@330&display=swap" rel="stylesheet">
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Susheel_Coder | Web Developer Portfolio">
-<meta name="twitter:description" content="Showcasing HTML, CSS, and JavaScript projects with responsive designs and a clean, modern UI.">
-<meta name="twitter:image" content="https://susheel-coder.netlify.app/your-preview-image.jpg">
-
- 
-    <meta name="keywords" content="Susheel Coder, susheel-coder,techiesusheel,skpandit25, web developer, HTML, CSS, JavaScript, frontend developer, full stack developer, portfolio website, responsive design, UI UX designer, website creator, web programmer, coding projects, personal portfolio, modern web design">
-<!--     <title>Welcome | Susheel_Coder</title> -->
+    <!--     <title>Welcome | Susheel_Coder</title> -->
+    <title>SusheelCoder </title>
     <meta name="description" content="This page is made by susheel kumar.">
     <link rel="icon" type="image/png" href="icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GK8T4YL9YG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GK8T4YL9YG"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-  gtag('config', 'G-GK8T4YL9YG');
-</script>
+        gtag('config', 'G-GK8T4YL9YG');
+    </script>
 
 
 
 
     <style>
+        body {
+            font-family: 'Delius', cursive;
+        }
+
+        h1,
+        h2,
+        h3,
+        .nav-list li {
+            font-family: 'Dosis', sans-serif;
+        }
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -61,7 +75,7 @@
             font-size: 2.5rem;
             font-weight: bold;
             margin-bottom: 10px;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
         }
 
         .tagline {
@@ -81,7 +95,7 @@
             position: absolute;
             width: 100%;
             height: 100%;
-            border: 8px solid rgba(255,255,255,0.1);
+            border: 8px solid rgba(255, 255, 255, 0.1);
             border-radius: 50%;
             border-top-color: white;
             animation: spin 1.5s linear infinite;
@@ -98,13 +112,15 @@
         }
 
         @keyframes spin {
-            100% { transform: rotate(360deg); }
+            100% {
+                transform: rotate(360deg);
+            }
         }
 
         .progress-container {
             width: 200px;
             height: 4px;
-            background: rgba(255,255,255,0.2);
+            background: rgba(255, 255, 255, 0.2);
             border-radius: 2px;
             overflow: hidden;
             margin-top: 20px;
@@ -118,8 +134,13 @@
         }
 
         @keyframes progress {
-            0% { width: 0%; }
-            100% { width: 100%; }
+            0% {
+                width: 0%;
+            }
+
+            100% {
+                width: 100%;
+            }
         }
 
         .tech-icons {
@@ -135,13 +156,16 @@
         }
 
         @keyframes fadeIn {
-            to { opacity: 0.7; }
+            to {
+                opacity: 0.7;
+            }
         }
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
+
 <body>
-    <div class="logo">Susheel_Coder</div>
+    <div class="logo">Susheel Coder</div>
     <div class="tagline">Coding Innovation, Building Solutions</div>
 
     <div class="loader">
@@ -178,9 +202,10 @@
         document.getElementById('visitor-number').textContent = `#${visitorNumber}`;
 
         // Redirect after 2 seconds
-        setTimeout(function() {
+        setTimeout(function () {
             window.location.href = "main_page/home/index.html";
-        }, 700);
+        }, 500);
     </script>
 </body>
+
 </html>
