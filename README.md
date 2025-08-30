@@ -1,6 +1,6 @@
-🌐 Susheel_Code
+🌐 SusheelCode
 
-Welcome to Susheel_Code — my personal website and portfolio!
+Welcome to Susheel Code — my personal website and portfolio!
 This project showcases my work, skills, and web development journey.
 
 🚀 Features
@@ -17,10 +17,10 @@ JavaScript
 
 
 📬 Contact
-Website: https://susheel-coder.netlify.app
+Website: https://susheelcoder.netlify.app
 Email: your- techiesusheel@gmail.com
 
 
 
 
-#SusheelCoder  #Susheel-Coder #Susheel_Coder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI
+#Susheelcoder  #SusheelCoder #susheelcoder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI
