@@ -1,7 +1,7 @@
 🌐 SusheelCode
 
-Welcome to Susheel Code — my personal website and portfolio!
-This project showcases my work, skills, and web development journey.
+Welcome to Susheel Coder — my personal website and portfolio!
+This project showcases my work, skills, and full stack development journey.
 
 🚀 Features
 Responsive design (mobile & desktop friendly)
@@ -11,8 +11,13 @@ Contact form for easy communication
 SEO friendly meta setup
 
 🛠️ Tech Stack
-HTML5
-CSS3
+HTML
+CSS
+PHP
+MYSQL
+Github
+xampp
+
 JavaScript
 
 
