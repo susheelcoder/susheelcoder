@@ -1,4 +1,4 @@
-🌐 susheelcode -Full Stack Developer
+🌐 susheelcode -Full Stack Developer & Portfolio
 
 Welcome to susheelcoder — my personal website and portfolio!
 This project showcases my work, skills, and full stack development journey.
