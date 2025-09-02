@@ -202,8 +202,10 @@
 
 @media (max-width: 480px) {
   .btn {
-        margin-right: 5px;
-    font-size: 4.5px;
+    margin-right: 5px;
+    font-size: 9px;
+    padding: 4px 5px;
+    border-radius: 10px;
     
   }
   .firstSection {
