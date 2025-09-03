@@ -1,4 +1,9 @@
 ![Uploading White and Green Simple  Professional Business Project Presentation (2).gif…]()
+![White and Green Simple  Professional Business Project Presentation (1)](https://github.com/user-attachments/assets/77b8b5f7-e63b-4d1f-a984-c46cbc8389a7)
+<img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation" src="https://github.com/user-attachments/assets/3f7a285f-6515-442c-b027-338c5d029777" />
+
+
+
 
 
 
