@@ -35,7 +35,7 @@
 This project showcases my work, skills, and full stack development journey.</p>
 
 
-<div  style="background-color: aliceblue;"></>
+<div  style="background-color: rgb(255, 197, 197)">
 <h3>🚀 Features</h3>
 <ul>
   <li>Responsive design (mobile & desktop friendly)</li>
