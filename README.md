@@ -3,8 +3,8 @@
 
 <H1>🌐 susheelcode -Full Stack Developer & Portfolio</H1>
 
-Welcome to susheelcoder — my personal website and portfolio!
-This project showcases my work, skills, and full stack development journey.
+<p>Welcome to <strong>susheelcoder</strong> — my personal website and portfolio!<br>
+This project showcases my work, skills, and full stack development journey.</p>
 
 🚀 Features
 Responsive design (mobile & desktop friendly)
