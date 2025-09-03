@@ -1,4 +1,4 @@
-<a href="https://susheelcoder.netlify.app/" <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380" /> ></a>
+<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380" /> </a>
 
 
 🌐 susheelcode -Full Stack Developer & Portfolio
