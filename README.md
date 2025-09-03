@@ -7,7 +7,7 @@
   <!-- ✅ Basic Meta Tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Susheelcoder - Full Stack Developer & Portfolio</title>
+<!--   <title>Susheelcoder - Full Stack Developer & Portfolio</title> -->
   <meta name="description" content="Welcome to Susheelcoder - My personal website & portfolio showcasing my full stack development journey, projects, and skills.">
   <meta name="keywords" content="susheelcoder, Susheel Coder, Full Stack Developer, Portfolio Website, HTML, CSS, JavaScript, PHP, MySQL, Web Development, Responsive Design, Clean UI">
   <meta name="author" content="Susheelcoder">
@@ -31,11 +31,7 @@
   <!-- ✅ Favicon -->
   <link rel="icon" type="image/png" href="favicon.png">
 
-  <!-- 🎨 CSS -->
-  <link rel="stylesheet" href="style.css">
 
-  <!-- ⚡ JavaScript -->
-  <script src="script.js" defer></script>
 </head>
 <body>
   <!-- 👇 Portfolio Preview Image -->
