@@ -6,6 +6,8 @@
 <p>Welcome to <strong>susheelcoder</strong> — my personal website and portfolio!<br>
 This project showcases my work, skills, and full stack development journey.</p>
 
+
+<div  style="background-color: aliceblue;"></>
 <h3>🚀 Features</h3>
 <ul>
   <li>Responsive design (mobile & desktop friendly)</li>
@@ -37,3 +39,4 @@ This project showcases my work, skills, and full stack development journey.</p>
   #susheelcoder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI #SusheelCoder
 </p>
 
+</div>
