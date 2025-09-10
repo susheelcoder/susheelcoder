@@ -1,0 +1,215 @@
+/* ===== Responsive Header & Navigation ===== */
+@media (max-width: 768px) {
+  .header {
+    /* flex-direction: column; */
+    align-items: flex-start;
+    height: auto;
+    padding: 10px 15px;
+    /* background-color: #8403ff45; */
+  }
+
+  .nav-list {
+    gap: 12px;
+    overflow-x: auto;
+    /* width: 100%; */
+    width: 220px;
+    padding-bottom: 0px;
+    background-color: #8403ff45;
+  }
+
+  .nav-list li a {
+    font-size: 0.95rem;
+    padding: 6px 10px;
+  }
+
+  /* ===== Responsive First Section ===== */
+  .firstSection {
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 0px;
+    text-align: center;
+  }
+
+  .leftSection {
+    height: auto;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .rightSection img {
+    width: 180px;
+    height: auto;
+    border-radius: 50px;
+    box-shadow: 0 0 15px rgba(100, 14, 212, 0.2);
+  }
+
+  .purple {
+    color: #4e07c0e5;
+    font-weight: bold;
+  }
+
+  #element {
+    display: block;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #5d20a3;
+  }
+
+  hr {
+    margin: 30px 0;
+    border: none;
+    border-top: 1px solid #302b2b;
+  }
+
+  /* ===== Responsive About Section ===== */
+  .about-section {
+    padding: 50px 20px;
+    /* text-align: center; */
+  }
+
+  .about-container {
+    flex-direction: column;
+  }
+
+  .about-text {
+    font-size: 1rem;
+  }
+
+  .about-photo img {
+    width: 150px;
+    margin-top: 20px;
+  }
+
+  /* ===== Responsive Projects Section ===== */
+  .projects-section {
+    padding: 40px 12px;
+  }
+.firstSection>div {
+  width: 45%;
+}
+
+
+  .project-card {
+    flex: 0 0 260px;
+  }
+
+  .project-image {
+    height: 150px;
+  }
+
+  .project-content h3 {
+    font-size: 1.1rem;
+  }
+
+  .project-content p {
+    font-size: 0.9rem;
+  }
+
+  .secondSection {
+    padding: 10px;
+}
+.skills-section {
+    padding: 10px;
+}
+.skills-section h2,.secondSection h1,.projects-section h2 {
+    font-size: 2rem;
+}
+}
+
+/* ===== Mobile Footer Styles (max-width: 768px) ===== */
+@media (max-width: 768px) {
+  .footer-main {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-logo {
+    justify-content: center;
+  }
+
+  .footer-links {
+    gap: 15px 20px;
+  }
+
+  .contact-info {
+    gap: 15px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  .pine-tree {
+    font-size: 1.5rem;
+  }
+}
+
+/* ===== Extra Small Screens (max-width: 480px) ===== */
+@media (max-width: 480px) {
+  .footer-links {
+    gap: 12px 15px;
+  }
+
+  .footer-links a {
+    font-size: 0.9rem;
+  }
+
+  .contact-item {
+    font-size: 0.9rem;
+  }
+
+  .footer-bottom {
+    font-size: 0.8rem;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+  }
+
+  .card {
+    padding: 20px;
+  }
+
+  
+}
+
+/* ===== Shimla Themed Highlight Text ===== */
+.shimla-highlight {
+  color: #ffd166;
+  font-weight: 600;
+}
+
+/* ===== Card Icon Styling ===== */
+.card-icon {
+  background: #e6f2ff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.card-icon i {
+  font-size: 1.8rem;
+  color: #2c5e92;
+}
+
+
+
+@media (max-width: 480px) {
+  .btn {
+    margin-right: 5px;
+    font-size: 9px;
+    padding: 4px 5px;
+    border-radius: 10px;
+    
+  }
+  .firstSection {
+        margin: 100px 0;
+  }
+  
+}
