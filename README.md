@@ -37,7 +37,7 @@
 
 
 
-<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="White and Green Simple  Professional Business Project Presentation (5).gif" /> </a>
+<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="img.gif" /> </a>
 
 
 <H1>🌐 susheelcode -Full Stack Developer & Portfolio</H1>
