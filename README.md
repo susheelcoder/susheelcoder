@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+
   <!-- ✅ Basic Meta Tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,11 +25,19 @@
 
   <!-- ✅ Favicon -->
   <link rel="icon" type="image/png" href="favicon.png">
+
+
+
 </head>
+<body>
+    
 
 
 
-<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380" /> </a>
+
+
+
+<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="White and Green Simple  Professional Business Project Presentation (5).gif" /> </a>
 
 
 <H1>🌐 susheelcode -Full Stack Developer & Portfolio</H1>
@@ -68,3 +79,7 @@ This project showcases my work, skills, and full stack development journey.</p>
 </p>
 
 </div>
+
+    
+</body>
+</html>
