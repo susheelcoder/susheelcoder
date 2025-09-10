@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <title>About Me – Susheel Kumar (SusheelCoder) | Full Stack Developer</title>
+  <meta content="About SusheelCoder – Susheel Kumar, a Full Stack Developer passionate about programming, innovation, web &amp; app development, and creating real-world projects." name="description" />
+  <meta content="SusheelCoder, Susheel Kumar, Full Stack Developer, Web Development, Programming, Tech Blogger, Innovation" name="keywords" />
+  <meta content="Susheel Kumar" name="author" />
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+  <style>
+    :root {   
+      --primary: #4e54c8;
+      --primary-light: #6a6fd6;
+      --secondary: #8f94fb;
+      --accent: #ff6b6b;
+      --dark: #2d3436;
+      --light: #f9f9f9;
+      --success: #4CAF50;
+      --gray: #7f8c8d;
+      --light-gray: #ecf0f1;
+      --transition: all 0.3s ease;
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+      color: var(--dark);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    /* Header */
+    header {
+      text-align: center;
+      padding: 20px 0;
+    }
+    
+    .logo {
+      font-size: 24px;
+      font-weight: 700;
+      color: var(--primary);
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    .logo span {
+      color: var(--accent);
+    }
+    
+    /* Hero Section */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 30px 20px;
+      /* background: white; */
+      border-radius: 12px;
+      margin-bottom: 25px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    }
+    
+    .profile-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid var(--primary-light);
+      margin-bottom: 20px;
+      transition: var(--transition);
+    }
+    
+    .profile-img:hover {
+      transform: scale(1.03);
+    }
+    
+    .hero h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+      /* color: var(--dark); */
+    }
+    
+    .hero p {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin-bottom: 15px;
+      /* color: var(--gray); */
+    }
+    
+    .tagline {
+      display: inline-block;
+      background: var(--light-gray);
+      padding: 8px 18px;
+      border-radius: 30px;
+      margin-top: 10px;
+      font-size: 0.9rem;
+      color: var(--dark);
+    }
+    
+    /* Main Content */
+    .content-section {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 25px;
+      margin-bottom: 30px;
+    }
+    
+    @media (max-width: 768px) {
+      .content-section {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+      transition: var(--transition);
+    }
+    
+    .card:hover {
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    }
+    
+    .card h2 {
+      color: var(--primary);
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--light-gray);
+      display: flex;
+      align-items: center;
+      font-size: 1.4rem;
+    }
+    
+    .card h2 i {
+      margin-right: 12px;
+      color: var(--accent);
+      font-size: 1.2rem;
+    }
+    
+    .info-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+    
+    .info-item i {
+      width: 28px;
+      height: 28px;
+      background: var(--primary-light);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 15px;
+      font-size: 13px;
+    }
+    
+    /* Skills */
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 15px;
+    }
+    
+    .skill {
+      background: var(--light-gray);
+      color: var(--dark);
+      padding: 7px 14px;
+      border-radius: 18px;
+      font-size: 0.85rem;
+      transition: var(--transition);
+      cursor: default;
+    }
+    
+    .skill:hover {
+      background: var(--primary);
+      color: white;
+    }
+    
+    /* Journey Section */
+    .journey {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+      margin-bottom: 30px;
+    }
+    
+    .journey h2 {
+      color: var(--primary);
+      margin-bottom: 20px;
+      text-align: center;
+      font-size: 1.8rem;
+    }
+    
+    .journey-item {
+      display: flex;
+      margin-bottom: 25px;
+      position: relative;
+    }
+    
+    .journey-item:last-child {
+      margin-bottom: 0;
+    }
+    
+    .journey-icon {
+      width: 45px;
+      height: 45px;
+      background: var(--primary);
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 20px;
+      flex-shrink: 0;
+      font-size: 18px;
+    }
+    
+    .journey-content {
+      flex: 1;
+    }
+    
+    .journey-content h3 {
+      margin-bottom: 8px;
+      color: var(--dark);
+    }
+    
+    .journey-content p {
+      color: var(--gray);
+      font-size: 0.95rem;
+    }
+    
+    /* CTA Buttons */
+    .cta-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 25px 0;
+    }
+    
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 12px 25px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 500;
+      transition: var(--transition);
+    }
+    
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+      box-shadow: 0 4px 10px rgba(78, 84, 200, 0.25);
+    }
+    
+    .btn-outline {
+      background: transparent;
+      color: var(--primary);
+      border: 2px solid var(--primary);
+    }
+    
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+    
+    .btn-primary:hover {
+      background: var(--primary-light);
+      box-shadow: 0 6px 15px rgba(78, 84, 200, 0.3);
+    }
+    
+    .btn-outline:hover {
+      background: var(--primary);
+      color: white;
+    }
+    
+    .btn i {
+      margin-right: 8px;
+    }
+    
+    /* Social Media */
+    .social-media {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin: 25px 0;
+    }
+    
+    .social-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--primary);
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+      transition: var(--transition);
+    }
+    
+    .social-icon:hover {
+      transform: translateY(-3px);
+      background: var(--primary-light);
+    }
+    
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 25px 0;
+      color: var(--gray);
+      font-size: 0.9rem;
+    }
+    
+    /* Simple animations */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(15px);
+      transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+    
+    .visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    #hero{
+    background-color:#585ecb6f;
+    }
+    
+    /* Hero Section */
+    .hero {
+      position: relative;
+      background: linear-gradient(to bottom, #ff9933d9, #ffffffca, #138808d0),
+                  url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1350&q=80") center/cover no-repeat;
+      text-align: center;
+      padding: 60px 20px;
+      color: #000000;
+    }
+    .hero img {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      border: 4px solid #ececec;
+      margin-top: 20px;
+    }
+    .hero h1 {
+      margin-top: 15px;
+      font-size: 28px;
+      font-weight: 700;
+    }
+    .hero p {
+      font-size: 16px;
+      margin-top: 5px;
+    }
+    
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="#" class="logo">Susheel<span>Coder</span></a>
+    </header>
+    
+    <section class="hero fade-in" id="hero">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcOgyN-9EMfVTOw3lZqJKudGHMeq-H4c9-GOmJDc5E8QisL2mu3SK_WmFkFnYV3y5ZQ32v0O1bzqADPm0X4kjE1N0tYgsORSBGHRfJGDHcLgimKlbk7cdisMiLXhxOnwGDtXQKvWLHknHEwN2FsQ7p293x1zwK3v9DfJkPNTQL4gWGS_UYfwM2gxM8T8zZ/s200/1000016637.jpg" alt="Susheel Kumar" class="profile-img">
+      <h1>Susheel Kumar</h1>
+      <b>Full Stack Developer | Tech Enthusiast | Creative Problem Solver</b>
+      <div class="tagline">Turning ideas into reality through code</div>
+    </section>
+    
+    <div class="cta-buttons">
+      <a href="resume.pdf" class="btn btn-primary" target="_blank">
+        <i class="fas fa-download"></i> Download Resume
+      </a>
+      <a href="#contact" class="btn btn-outline">
+        <i class="fas fa-paper-plane"></i> Contact Me
+      </a>
+    </div>
+    
+    <div class="content-section">
+      <div class="card fade-in">
+        <h2><i class="fas fa-user"></i> About Me</h2>
+        <p>Hello! I'm Susheel Kumar, a passionate Full Stack Developer currently pursuing BCA at Amity University. I love creating innovative solutions and bringing ideas to life through code.</p>
+        
+        <div class="info-item">
+          <i class="fas fa-birthday-cake"></i>
+          <div>
+            <strong>Birthday:</strong> 15 August
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-map-marker-alt"></i>
+          <div>
+            <strong>Location:</strong> Vishnupur, Bihar, India
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-envelope"></i>
+          <div>
+            <strong>Email:</strong> techiesusheel@gmail.com
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-graduation-cap"></i>
+          <div>
+            <strong>Education:</strong> BCA, Amity University
+          </div>
+        </div>
+      </div>
+      
+      <div class="card fade-in">
+        <h2><i class="fas fa-code"></i> Skills & Expertise</h2>
+        <p>I enjoy working on both frontend and backend technologies to create seamless web experiences.</p>
+        
+        <div class="skills-container">
+          <span class="skill">HTML</span>
+          <span class="skill">CSS</span>
+          <span class="skill">JavaScript</span>
+          <span class="skill">Node.js</span>
+          <!-- <span class="skill">Python</span> -->
+          <span class="skill">MySQL</span>
+          <span class="skill">PHP</span>
+          <span class="skill">Responsive Design</span>
+          <!-- <span class="skill">C Programming</span> -->
+          <span class="skill">Web Development</span>
+        </div>
+      </div>
+    </div>
+    
+    <section class="journey fade-in">
+      <h2>My Journey</h2>
+      
+      <div class="journey-item">
+        <div class="journey-icon">
+          <i class="fas fa-rocket"></i>
+        </div>
+        <div class="journey-content">
+          <h3>Beginning of Coding Journey</h3>
+          <p>Started with C programming which sparked my passion for coding and problem-solving.</p>
+        </div>
+      </div>
+      
+      <div class="journey-item">
+        <div class="journey-icon">
+          <i class="fas fa-paint-brush"></i>
+        </div>
+        <div class="journey-content">
+          <h3>Creative Exploration</h3>
+          <p>Developed interest in watercolor painting as a creative outlet alongside coding.</p>
+        </div>
+      </div>
+      
+      <div class="journey-item">
+        <div class="journey-icon">
+          <i class="fas fa-mobile-alt"></i>
+        </div>
+        <div class="journey-content">
+          <h3>App Development</h3>
+          <p>Created Dilebri Apps - a functional mobile application that solved real-world problems.</p>
+        </div>
+      </div>
+      
+      <div class="journey-item">
+        <div class="journey-icon">
+          <i class="fas fa-briefcase"></i>
+        </div>
+        <div class="journey-content">
+          <h3>Professional Experience</h3>
+          <p>Completed internships at Painting & Radio and Bureau of Indian Standards (BIS), gaining valuable industry experience.</p>
+        </div>
+      </div>
+      
+      <div class="journey-item">
+        <div class="journey-icon">
+          <i class="fas fa-university"></i>
+        </div>
+        <div class="journey-content">
+          <h3>Higher Education</h3>
+          <p>Pursuing BCA at Amity University to deepen my knowledge in computer applications.</p>
+        </div>
+      </div>
+    </section>
+    
+    <div class="content-section">
+      <div class="card fade-in">
+        <h2><i class="fas fa-heart"></i> Interests & Hobbies</h2>
+        
+        <div class="info-item">
+          <i class="fas fa-laptop-code"></i>
+          <div>
+            <strong>Programming:</strong> Developing innovative projects and solutions
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-paint-brush"></i>
+          <div>
+            <strong>Painting:</strong> Watercolor painting as a creative expression
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-shuttlecock"></i>
+          <div>
+            <strong>Badminton:</strong> Tournament-level player and enthusiast
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-seedling"></i>
+          <div>
+            <strong>Farming:</strong> Interest in agriculture and farming techniques
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-blog"></i>
+          <div>
+            <strong>Blogging:</strong> Sharing tech insights and knowledge
+          </div>
+        </div>
+      </div>
+      
+      <div class="card fade-in">
+        <h2><i class="fas fa-bullseye"></i> My Goals</h2>
+        <p>I believe in continuous learning and growth. My mission is to use technology to create solutions that make a positive impact.</p>
+        
+        <div class="info-item">
+          <i class="fas fa-check-circle"></i>
+          <div>
+            <strong>Learn & Grow:</strong> Continuously upgrade my skills and knowledge
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-check-circle"></i>
+          <div>
+            <strong>Build Solutions:</strong> Develop applications that solve real problems
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-check-circle"></i>
+          <div>
+            <strong>Share Knowledge:</strong> Help others through blogging and mentorship
+          </div>
+        </div>
+        
+        <div class="info-item">
+          <i class="fas fa-check-circle"></i>
+          <div>
+            <strong>Innovate:</strong> Explore new technologies and creative approaches
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="social-media" id="contact">
+      <a href="https://github.com/susheelcoder" class="social-icon" target="_blank" title="GitHub">
+        <i class="fab fa-github"></i>
+      </a>
+      <a href="https://susheelcoder.blogspot.com" class="social-icon" target="_blank" title="Blog">
+        <i class="fas fa-blog"></i>
+      </a>
+      <a href="https://linkedin.com/in/susheelcoder" class="social-icon" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+      <a href="https://www.instagram.com/susheelcoder" class="social-icon" target="_blank" title="Instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="mailto:techiesusheel@gmail.com" class="social-icon" title="Email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </div>
+    
+    <footer>
+      <p>© 2025 Susheel Kumar – Full Stack Developer | All rights reserved.</p>
+      <p>Made with ❤️ by SusheelCoder</p>
+    </footer>
+  </div>
+
+  <script>
+    // Simple fade-in animation on scroll
+    document.addEventListener('DOMContentLoaded', function() {
+      const fadeElements = document.querySelectorAll('.fade-in');
+      
+      const fadeInObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, { threshold: 0.1 });
+      
+      fadeElements.forEach(element => {
+        fadeInObserver.observe(element);
+      });
+      
+      // Smooth scrolling for anchor links
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+          e.preventDefault();
+          
+          const targetId = this.getAttribute('href');
+          if (targetId === '#') return;
+          
+          const targetElement = document.querySelector(targetId);
+          if (targetElement) {
+            window.scrollTo({
+              top: targetElement.offsetTop - 20,
+              behavior: 'smooth'
+            });
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>
