@@ -58,15 +58,9 @@ This project showcases my work, skills, and full stack development journey.</p>
 
 
 <h3>🛠️ Tech Stack</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>PHP</li>
-  <li>MySQL</li>
-  <li>JavaScript</li>
-  <li>GitHub</li>
-  <li>XAMPP</li>
-</ul>
+
+  HTML  CSS  PHP MySQL  JavaScript  GitHub  XAMPP
+
 
 <h3>📬 Contact</h3>
 <p>
