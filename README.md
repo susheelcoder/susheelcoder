@@ -5,13 +5,13 @@
   <!-- ✅ Basic Meta Tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--   <title>Susheelcoder - Full Stack Developer & Portfolio</title> -->
-  <meta name="description" content="Welcome to Susheelcoder - My personal website & portfolio showcasing my full stack development journey, projects, and skills.">
+<!--   <title>susheelcoder - Full Stack Developer & Portfolio</title> -->
+  <meta name="description" content="Welcome to susheelcoder - My personal website & portfolio showcasing my full stack development journey, projects, and skills.">
   <meta name="keywords" content="susheelcoder, Susheel Coder, Full Stack Developer, Portfolio Website, HTML, CSS, JavaScript, PHP, MySQL, Web Development, Responsive Design, Clean UI">
-  <meta name="author" content="Susheelcoder">
+  <meta name="author" content="susheelcoder">
 
   <!-- ✅ Open Graph (For Social Media like Facebook, LinkedIn) -->
-  <meta property="og:title" content="Susheelcoder - Full Stack Developer & Portfolio">
+  <meta property="og:title" content="susheelcoder - Full Stack Developer & Portfolio">
   <meta property="og:description" content="Explore my projects, skills, and full stack development journey. Clean UI, responsive design, and modern web development.">
   <meta property="og:image" content="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380">
   <meta property="og:url" content="https://susheelcoder.netlify.app/">
@@ -19,7 +19,7 @@
 
   <!-- ✅ Twitter Card (For Twitter/X Sharing) -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Susheelcoder - Full Stack Developer & Portfolio">
+  <meta name="twitter:title" content="susheelcoder - Full Stack Developer & Portfolio">
   <meta name="twitter:description" content="Welcome to my personal website & portfolio. Showcasing projects, skills, and full stack development journey.">
   <meta name="twitter:image" content="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380">
 
