@@ -40,7 +40,7 @@
 <a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="img.gif" /> </a>
 
 
-<H1>🌐 susheelcode -Full Stack Developer & Portfolio</H1>
+<H1>susheelcode -Full Stack Developer & Portfolio</H1>
 
 <p>Welcome to <strong>susheelcoder</strong> — my personal website and portfolio!<br>
 This project showcases my work, skills, and full stack development journey.</p>
@@ -69,7 +69,7 @@ This project showcases my work, skills, and full stack development journey.</p>
 </p>
 
 <p>
-  #susheelcoder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI #SusheelCoder
+  #susheelcoder @susheelcoder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI #SusheelCoder
 </p>
 
 </div>
