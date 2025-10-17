@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="hi">
+
+<head>
+    <!-- ✅ Basic Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>SusheelCoder | Official Website</title>
+
+    <!-- ✅ Description & SEO -->
+    <meta name="description"
+        content="Welcome to the official site of SusheelCoder (Susheel Kumar) – a Full Stack Developer passionate about coding, app development, web design, and innovative tech projects. Explore his work, blogs, and creations.">
+
+    <meta name="keywords"
+        content="SusheelCoder, Susheel Kumar, Full Stack Developer, VishnupurCoder, Web Developer, App Developer, SusheelCoder Blog, Coding Projects, Web Design, Tech Blogger, Programming, Developer from Vishnupur ,#susheelcoder #susheel-coder">
+
+    <meta name="author" content="Susheel Kumar">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="hi-IN">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+
+    <!-- ✅ Canonical & Favicon -->
+    <link rel="canonical" href="https://susheelcoder.netlify.app/">
+    <link rel="icon" href="/my-site/main_page/home/img/devloper.jpg" type="image/png">
+
+    <!-- ✅ Open Graph (Facebook / WhatsApp) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://susheelcoder.netlify.app/">
+    <meta property="og:title" content="SusheelCoder | Official Website">
+    <meta property="og:title" content="SusheelCoder - Full Stack Developer & Tech Creator">
+    <meta property="og:image" content="/my-site/main_page/home/img/devloper.jpg">
+    <meta property="og:site_name" content="Susheel Coder">
+
+    <!-- ✅ Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SusheelCoder - Full Stack Developer & Tech Creator">
+    <meta name="twitter:description"
+        content="SusheelCoder (सुषील कुमार) एक फुल स्टैक डेवलपर हैं जो कोडिंग, ऐप और वेब डेवलपमेंट, तथा टेक इनोवेशन के लिए जाने जाते हैं। यहां उनके प्रोजेक्ट्स और ब्लॉग देखें।">
+    <meta name="twitter:image" content="/my-site/main_page/home/img/devloper.jpg">
+
+    <!-- ✅ PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#ff9933">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Susheel Coder">
+    <meta name="apple-mobile-web-app-status-bar-style" content="orange">
+
+    <!-- ✅ Redirect (Backup using meta) -->
+    <meta http-equiv="refresh" content="2; url=home.html">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <!-- ✅ Structured Data (JSON-LD Schema) -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Event",
+      "name": "SusheelCoder",
+      "startDate": "2025-10-17",
+      "endDate": "2030-10-17",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+     "@type": "Place",
+     "name": "Gandhi Chowk Vishnupur",
+     "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Gandhi Chowk",
+     "addressLocality": "Vishnupur",
+     "addressRegion": "Bihar",
+     "postalCode": "811XXX",
+     "addressCountry": "IN"
+      }
+     },
+      "image": [
+        "https://susheelcoder.netlify.app/my-site/main_page/home/img/devloper.jpg"
+      ],
+      "description": "Official website of SusheelCoder (Sushil Kumar) – Full Stack Developer & Tech Creator.",
+      "organizer": {
+        "@type": "Organization",
+        "name": "SusheelCoder",
+        "url": "https://susheelcoder.netlify.app/"
+      }
+    },
+    {
+      "@type": "WebApplication",
+      "name": "SusheelCoder",
+      "url": "https://susheelcoder.netlify.app/",
+      "icons": [
+        {
+          "src": "https://susheelcoder.netlify.app/my-site/main_page/home/img/devloper.jpg",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "https://susheelcoder.netlify.app/my-site/main_page/home/img/devloper.jpg",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+    <main>
+
+        <div class="logo">Susheel Coder</div>
+        <div class="tagline">Coding Innovation, Building Solutions</div>
+
+        <div class="loader">
+            <div class="loader-circle"></div>
+            <div class="loader-inner">
+                <!-- Loading... -->
+                Visitor No.: <span id="visitor-number">...</span>
+            </div>
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-bar"></div>
+        </div>
+
+        <div class="tech-icons">
+            <i class="fab fa-html5 tech-icon" style="animation-delay: 0.s"></i>
+            <i class="fab fa-css3-alt tech-icon" style="animation-delay: 0.075s"></i>
+            <i class="fab fa-js tech-icon" style="animation-delay: 0.15s"></i>
+            <i class="fab fa-react tech-icon" style="animation-delay: 0.225s"></i>
+            <i class="fab fa-node-js tech-icon" style="animation-delay: 0.3s"></i>
+        </div>
+
+        <script>
+            // Visitor number logic (localStorage-based)
+            let visitorNumber = localStorage.getItem('visitorNumber');
+            if (!visitorNumber) {
+                visitorNumber = 1;
+            } else {
+                visitorNumber = parseInt(visitorNumber) + 1;
+            }
+            localStorage.setItem('visitorNumber', visitorNumber);
+
+            // Display it
+            document.getElementById('visitor-number').textContent = `#${visitorNumber}`;
+        </script>
+
+
+
+    </main>
+
+
+
+    <section>
+        <!--------------------------------start---------------------------------------------- -->
+        <!-- ✅ Scripts -->
+        <script>
+            setTimeout(() => {
+                window.location.href = "home.html";
+            }, 1000);
+
+            // Register service worker for PWA
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then(() => console.log('✅ Service Worker Registered'))
+                    .catch(err => console.error('⚠️ Service Worker Failed:', err));
+            }
+        </script>
+
+        <!-- ✅ Google Analytics (optional, replace your ID) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');
+        </script>
+
+
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-58S7CD9P');</script>
+        <!-- End Google Tag Manager -->
+
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58S7CD9P" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!-- --------------------------end----------------------------------------------------- -->
+    </section>
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
