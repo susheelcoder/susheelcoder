@@ -5,7 +5,7 @@
   <!-- ✅ Basic Meta Tags -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--   <title>susheelcoder - Full Stack Developer & Portfolio</title> -->
+  <title>susheelcoder - Full Stack Developer & Portfolio</title>
   <meta name="description" content="Welcome to susheelcoder - My personal website & portfolio showcasing my full stack development journey, projects, and skills.">
   <meta name="keywords" content="susheelcoder, Susheel Coder, Full Stack Developer, Portfolio Website, HTML, CSS, JavaScript, PHP, MySQL, Web Development, Responsive Design, Clean UI">
   <meta name="author" content="susheelcoder">
@@ -37,7 +37,7 @@
 
 
 
-<a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="img.gif" /> </a>
+<!-- <a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="img.gif" /> </a> -->
 
 
 <H1>susheelcode -Full Stack Developer & Portfolio</H1>
