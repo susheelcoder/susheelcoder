@@ -13,7 +13,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
 - 🧩 I enjoy solving **real-world problems with web technologies**
 - 🎯 Focus: **Frontend + Backend + UI/UX**
 - 💬 Ask me about **Full Stack Development**
-- 📫 Reach me at: [susheelcoder@gmail.com](mailto:susheelcoder@zoho.com)
+- 📫 Reach me at: [susheelcoder@zoho.com](mailto:susheelcoder@zoho.com)
 
 ---
 
