@@ -1,34 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  <!-- ✅ Basic Meta Tags -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>susheelcoder - Full Stack Developer & Portfolio</title>
-  <meta name="description" content="Welcome to susheelcoder - My personal website & portfolio showcasing my full stack development journey, projects, and skills.">
-  <meta name="keywords" content="susheelcoder, Susheel Coder, Full Stack Developer, Portfolio Website, HTML, CSS, JavaScript, PHP, MySQL, Web Development, Responsive Design, Clean UI">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- <title>susheelcoder — Full Stack Developer & Portfolio</title> -->
+  <meta name="description" content="susheelcoder — Full Stack Developer. Projects, blog, and demos in HTML, CSS, JavaScript, Node.js & PHP.">
+  <meta name="keywords" content="susheelcoder, Full Stack Developer, Portfolio, HTML, CSS, JavaScript, Node.js, PHP, Web Development">
   <meta name="author" content="susheelcoder">
+  <meta name="robots" content="index, follow">
 
-  <!-- ✅ Open Graph (For Social Media like Facebook, LinkedIn) -->
-  <meta property="og:title" content="susheelcoder - Full Stack Developer & Portfolio">
-  <meta property="og:description" content="Explore my projects, skills, and full stack development journey. Clean UI, responsive design, and modern web development.">
-  <meta property="og:image" content="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380">
-  <meta property="og:url" content="https://susheelcoder.netlify.app/">
+  <!-- Canonical (यदि GitHub Pages पर डोमेन अलग है तो बदलें) -->
+  <link rel="canonical" href="https://susheelcoder.netlify.app/">
+
+  <!-- Theme colour for mobile browsers -->
+  <meta name="theme-color" content="#0b1220">
+
+  <!-- Open Graph / Social preview -->
+  <meta property="og:title" content="susheelcoder — Full Stack Developer & Portfolio">
+  <meta property="og:description" content="Explore projects, skills and demos by susheelcoder — modern web apps with clean UI.">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="https://susheelcoder.netlify.app/">
+  <!-- point to social preview image you upload in your repo -->
+  <meta property="og:image" content="https://raw.githubusercontent.com/<your-github-username>/<repo-name>/main/social-preview.png">
+  <meta property="og:image:width" content="1280">
+  <meta property="og:image:height" content="640">
 
-  <!-- ✅ Twitter Card (For Twitter/X Sharing) -->
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="susheelcoder - Full Stack Developer & Portfolio">
-  <meta name="twitter:description" content="Welcome to my personal website & portfolio. Showcasing projects, skills, and full stack development journey.">
-  <meta name="twitter:image" content="https://github.com/user-attachments/assets/058c385e-df26-48d5-905b-96e39b54d380">
+  <meta name="twitter:title" content="susheelcoder — Full Stack Developer">
+  <meta name="twitter:description" content="Projects, code samples and portfolio by susheelcoder.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/<your-github-username>/<repo-name>/main/social-preview.png">
 
-  <!-- ✅ Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png">
+  <!-- Optional: JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "susheelcoder",
+    "url": "https://susheelcoder.netlify.app/",
+    "sameAs": [
+      "https://github.com/<your-github-username>",
+      "https://www.linkedin.com/in/<your-linkedin>"
+    ],
+    "jobTitle": "Full Stack Developer"
+  }
+  </script>
 
-
-
+  <link rel="icon" href="/favicon.png" type="image/png">
 </head>
+
 <body>
     
 
