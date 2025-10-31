@@ -1,99 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <!-- <title>susheelcoder — Full Stack Developer & Portfolio</title> -->
-  <meta name="description" content="susheelcoder — Full Stack Developer. Projects, blog, and demos in HTML, CSS, JavaScript, Node.js & PHP.">
-  <meta name="keywords" content="susheelcoder, Full Stack Developer, Portfolio, HTML, CSS, JavaScript, Node.js, PHP, Web Development">
-  <meta name="author" content="susheelcoder">
-  <meta name="robots" content="index, follow">
+# 👋 Hi, I'm [susheelcoder](https://susheelcoder.netlify.app/)
+### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
-  <!-- Canonical (यदि GitHub Pages पर डोमेन अलग है तो बदलें) -->
-  <link rel="canonical" href="https://susheelcoder.netlify.app/">
+Welcome to my GitHub profile!  
+I love building responsive, modern, and performance-optimized web apps using **HTML, CSS, JavaScript, Node.js, and PHP**.  
+My goal is to design user-centric experiences and write clean, efficient code that speaks for itself.
 
-  <!-- Theme colour for mobile browsers -->
-  <meta name="theme-color" content="#0b1220">
+---
 
-  <!-- Open Graph / Social preview -->
-  <meta property="og:title" content="susheelcoder — Full Stack Developer & Portfolio">
-  <meta property="og:description" content="Explore projects, skills and demos by susheelcoder — modern web apps with clean UI.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://susheelcoder.netlify.app/">
-  <!-- point to social preview image you upload in your repo -->
-  <meta property="og:image" content="https://raw.githubusercontent.com/<your-github-username>/<repo-name>/main/social-preview.png">
-  <meta property="og:image:width" content="1280">
-  <meta property="og:image:height" content="640">
+## 🚀 About Me
+- 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
+- 👨‍💻 I’m currently learning **Next.js & TypeScript**
+- 🧩 I enjoy solving **real-world problems with web technologies**
+- 🎯 Focus: **Frontend + Backend + UI/UX**
+- 💬 Ask me about **Full Stack Development**
+- 📫 Reach me at: [susheelcoder@gmail.com](mailto:susheelcoder@gmail.com)
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="susheelcoder — Full Stack Developer">
-  <meta name="twitter:description" content="Projects, code samples and portfolio by susheelcoder.">
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/<your-github-username>/<repo-name>/main/social-preview.png">
+---
 
-  <!-- Optional: JSON-LD structured data -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "susheelcoder",
-    "url": "https://susheelcoder.netlify.app/",
-    "sameAs": [
-      "https://github.com/<your-github-username>",
-      "https://www.linkedin.com/in/<your-linkedin>"
-    ],
-    "jobTitle": "Full Stack Developer"
-  }
-  </script>
+## 🛠️ Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+**Backend:** Node.js, Express.js, PHP  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Netlify  
 
-  <link rel="icon" href="/favicon.png" type="image/png">
-</head>
+---
 
-<body>
-    
+## 🌟 Featured Projects
+| Project | Description | Live Demo |
+|----------|--------------|------------|
+| 🧾 **Portfolio Website** | My personal developer portfolio built with HTML, CSS, JS | [Live Link](https://susheelcoder.netlify.app/) |
+| 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | Coming Soon |
+| 🚀 **Hackathon Project - Duality AI** | AI-based space station simulation entry | Coming Soon |
 
+---
 
+## 🧠 Currently Exploring
+- Next.js 15  
+- REST API best practices  
+- AI tools for Web Development  
 
+---
 
+## 📊 GitHub Stats
+![Susheelcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=radical)
 
+---
 
-<!-- <a href="https://susheelcoder.netlify.app/"> <img width="1920" height="1080" alt="White and Green Simple  Professional Business Project Presentation (1)" src="img.gif" /> </a> -->
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/)
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
+--
 
-<H1>susheelcode -Full Stack Developer & Portfolio</H1>
+<!-- ✅ Structured Data for SEO (JSON-LD Schema Markup) -->
 
-<p>Welcome to <strong>susheelcoder</strong> — my personal website and portfolio!<br>
-This project showcases my work, skills, and full stack development journey.</p>
-
-
-<div  style="background-color: rgb(255, 197, 197)">
-<h3>🚀 Features</h3>
-<ul>
-  <li>Responsive design (mobile & desktop friendly)</li>
-  <li>Clean and modern UI</li>
-  <li>Portfolio section to highlight projects</li>
-  <li>Contact form for easy communication</li>
-  <li>SEO friendly meta setup</li>
-</ul>
-
-
-<h3>🛠️ Tech Stack</h3>
-
-  HTML  CSS  PHP MySQL  JavaScript  GitHub  XAMPP
-
-
-<h3>📬 Contact</h3>
-<p>
-  Website: <a href="https://susheelcoder.netlify.app" target="_blank">https://susheelcoder.netlify.app</a><br>
-  Email: <a href="mailto:techiesusheel@gmail.com">techiesusheel@gmail.com</a>
-</p>
-
-<p>
-  #susheelcoder @susheelcoder #WebDevelopment #PortfolioWebsite #HTML5 #CSS3 #JavaScript #ResponsiveDesign #CleanUI #SusheelCoder
-</p>
-
-</div>
-
-    
-</body>
-</html>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "susheelcoder",
+  "url": "https://susheelcoder.netlify.app/",
+  "sameAs": [
+    "https://github.com/susheelcoder",
+    "https://www.linkedin.com/in/"
+  ],
+  "jobTitle": "Full Stack Developer"
+}
+</script>
