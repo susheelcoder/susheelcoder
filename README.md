@@ -39,19 +39,19 @@ My goal is to design user-centric experiences and write clean, efficient code th
 - REST API best practices  
 - AI tools for Web Development  
 
----
+
 
 ## 📊 GitHub Stats
 ![Susheelcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=radical)
 
----
+
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/)
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
---
+
 
 <!-- ✅ Structured Data for SEO (JSON-LD Schema Markup) -->
 
@@ -68,3 +68,4 @@ My goal is to design user-centric experiences and write clean, efficient code th
   "jobTitle": "Full Stack Developer"
 }
 </script>
+
