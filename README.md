@@ -68,20 +68,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
     "https://www.linkedin.com/in/"
   ],
   "jobTitle": "Full Stack Developer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "susheelcoder"
-  },
-  "knowsAbout": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "PHP",
-    "C",
-    "Full Stack Development",
-    "Web Design",
-    "UI/UX"
-  ],
-  "description": "Full Stack Developer skilled in HTML, CSS, JavaScript, PHP, and C. Building modern, responsive, and scalable web applications with focus on clean UI and efficient code."
+  "description": "Full Stack Developer specializing in HTML, CSS, JavaScript, PHP, and C — building modern, responsive web apps."
 }
+
 
