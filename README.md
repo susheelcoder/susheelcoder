@@ -48,7 +48,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/susheel-kumar-20a198312))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
 ---
@@ -65,7 +65,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
   "image": "https://susheelcoder.netlify.app/preview.jpg",
   "sameAs": [
     "https://github.com/susheelcoder",
-    "https://www.linkedin.com/in/susheel-kumar-20a198312)
+    "https://www.linkedin.com/in/susheel-kumar-20a198312/)
   ],
   "jobTitle": "Full Stack Developer",
   "description": "Full Stack Developer specializing in HTML, CSS, JavaScript, PHP, and C — building modern, responsive web apps."
