@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [susheelcoder](https://susheelcoder.netlify.app/)
+# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
 ### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
 Welcome to my GitHub profile!  
