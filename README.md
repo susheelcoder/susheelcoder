@@ -65,7 +65,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
   "image": "https://susheelcoder.netlify.app/preview.jpg",
   "sameAs": [
     "https://github.com/susheelcoder",
-    "https://www.linkedin.com/in/susheel-kumar-20a198312/)
+    "https://www.linkedin.com/in/)
   ],
   "jobTitle": "Full Stack Developer",
   "description": "Full Stack Developer specializing in HTML, CSS, JavaScript, PHP, and C — building modern, responsive web apps."
