@@ -65,7 +65,7 @@ This project showcases my work, skills, and full stack development journey.</p>
 <h3>📬 Contact</h3>
 <p>
   Website: <a href="https://susheelcoder.netlify.app" target="_blank">https://susheelcoder.netlify.app</a><br>
-  Email: <a href="mailto:techiesusheel@gmail.com">techiesusheel@gmail.com</a>
+  Email: <a href="mailto:susheelcoder1@gmail.com">susheelcoder1@gmail.com</a>
 </p>
 
 <p>
