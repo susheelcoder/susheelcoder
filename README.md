@@ -30,8 +30,8 @@ My goal is to design user-centric experiences and write clean, efficient code th
 |----------|--------------|------------|
 | 🧾 **Portfolio Website** | My personal developer portfolio built with HTML, CSS, JS | [Live Link](https://susheelcoder.netlify.app/) |
 | 🚀 **Chhath Puja**  | A Web App for Public Information & Events | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
+| 🚀 **Hackathon Project ** |Haproven is a tech-focused community and creative team. We turn ideas into real-world solutions by working together and using modern technology. | [Live Link ](https://haproven.netlify.app/)|
 | 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | Coming Soon |
-| 🚀 **Hackathon Project - Duality AI** | AI-based space station simulation entry | Coming Soon |
 
 ---
 
