@@ -2,14 +2,13 @@
 ### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
 Welcome to my GitHub profile!  
-I love building responsive, modern, and performance-optimized web apps using **HTML, CSS, JavaScript, Node.js, and PHP**.  
+I love building responsive, modern, and performance-optimized web apps using **HTML5, CSS3, JavaScript, and PHP**.  
 My goal is to design user-centric experiences and write clean, efficient code that speaks for itself.
 
 ---
 
 ## 🚀 About Me
 - 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
-- 👨‍💻 I’m currently learning **Next.js & TypeScript**
 - 🧩 I enjoy solving **real-world problems with web technologies**
 - 🎯 Focus: **Frontend + Backend + UI/UX**
 - 💬 Ask me about **Full Stack Development**
@@ -18,8 +17,8 @@ My goal is to design user-centric experiences and write clean, efficient code th
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-**Backend:** Node.js, Express.js, PHP  
+**Frontend:** HTML, CSS, JavaScript,  
+**Backend:**  PHP  
 **Database:** MySQL, MongoDB  
 **Tools:** Git, GitHub, VS Code, Netlify  
 
@@ -30,17 +29,13 @@ My goal is to design user-centric experiences and write clean, efficient code th
 |----------|--------------|------------|
 | 🧾 **Portfolio Website** | My personal developer portfolio built with HTML, CSS, JS | [Live Link](https://susheelcoder.netlify.app/) |
 | 🚀 **Chhath Puja**  | A Web App for Public Information & Events | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
-| 🚀 **Hackathon Project** |Haproven is a tech-focused community and creative team. We turn ideas into real-world solutions by working together and using modern technology. | [Live Link ](https://haproven.netlify.app/)|
+| 🚀 **Haproven community** |Haproven is a tech-focused community and creative team. We turn ideas into real-world solutions by working together and using modern technology. | [Live Link ](https://haproven.netlify.app/)|
+| 🆔 **HaproID Platform** | A modern web-based identity system for managing user records securely and efficiently | [Live Link](https://haproID.netlify.app/) |
+
 | 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | Coming Soon |
-
 ---
 
-## 🧠 Currently Exploring
-- Next.js 15  
-- REST API best practices  
-- AI tools for Web Development  
 
----
 
 ## 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=dark)](https://github.com/susheelcoder)
