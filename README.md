@@ -5,10 +5,10 @@
 
 </h1>
 <p align="center" >
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Clean+UI+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Learner&height=35&width=600&color=58A6FF&vCenter=true&size=28" 
-    style="vertical-align: middle;"
-  />
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
+  style="vertical-align: middle;"
+/>
   </p>
 
 
