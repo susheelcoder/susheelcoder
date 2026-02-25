@@ -3,15 +3,39 @@
 # 👋  Hello, I'm Susheel Kumar [(susheelcoder)](https://susheelcoder.netlify.app/)
 
 
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-PHP-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SEO-Web%20Optimization-red?style=for-the-badge" />
+  <!-- 🔵 Core Role -->
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
+
+
+
+  <!-- 🟣 Frontend & UI -->
+  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JavaScript-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
+
+
+
+  <!-- 🟠 Backend & Database -->
+  <img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Developer-F97316?style=for-the-badge" />
+
+
+
+  <!-- 🟢 Optimization & SEO -->
+  <img src="https://img.shields.io/badge/Performance-Optimized-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical%20SEO-Web%20Optimization-DC2626?style=for-the-badge" />
+
+
+  <!-- ⚫ Activity -->
+  <img src="https://img.shields.io/badge/Hackathon-Participant-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-111827?style=for-the-badge" />
 
 </p>
+
 
 
 ###  Welcome to my GitHub profile!  
