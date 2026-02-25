@@ -1,8 +1,7 @@
 
-<h1 align="center">
-  👋 Hello, I'm Susheel kumar 
-  <a href="https://susheelcoder.netlify.app/" target="_blank">(susheelcoder)</a>
-</h1>
+
+# 👋  Hello, I'm Susheel Kumar [susheelcoder](https://susheelcoder.netlify.app/)
+
 
 <p align="center">
 
