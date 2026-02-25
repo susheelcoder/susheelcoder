@@ -43,21 +43,7 @@ My goal is to design user-centric experiences and write clean, efficient code th
 
 ---
 
-## 🧾 Structured Data (for Website SEO)
-> *(This section shows how SEO data is added on my website — it won’t run on GitHub)*
-
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "susheelcoder",
-  "url": "https://susheelcoder.netlify.app/",
-  "image": "https://susheelcoder.netlify.app/preview.jpg",
-  "sameAs": [
-    "https://github.com/susheelcoder"
-  ],
-  "jobTitle": "Full Stack Developer",
-  "description": "Full Stack Developer specializing in HTML, CSS, JavaScript, PHP, and C — building modern, responsive web apps."
-}
+## 📊 GitHub Stats
+![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight)
 
 
