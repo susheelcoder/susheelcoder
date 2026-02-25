@@ -38,7 +38,7 @@ Building modern web experiences with performance, quality, and user-focused desi
 
 ## 🚀 About Me
 
-- 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
+- 🌐 Personal Website: [Visit Here](https://susheelcoder.netlify.app/)
 - 💻 Full Stack Developer focused on building modern, responsive web applications
 - 🎨 Strong interest in UI/UX and clean user-centric design
 - ⚡ Passionate about performance optimization and technical SEO
