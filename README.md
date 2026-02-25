@@ -44,6 +44,8 @@ My goal is to design user-centric experiences and write clean, efficient code th
 ---
 
 ## 📊 GitHub Stats
-![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susheelcoder&layout=compact&theme=tokyonight&hide_border=true)
 
