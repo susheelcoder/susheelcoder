@@ -69,12 +69,11 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 | Project | Description | Live |
 |----------|------------|------|
-| Portfolio | Personal developer portfolio ______________________________________ | 🔗 Open |
-| Chhath Puja | Event Web App | 🔗 Open |
-| Haproven | Tech Community | 🔗 Open |
-| HaproID | Identity System | 🔗 Open |
-| Attendance | Teacher & Student System | 🔗 Open |
-
+| Portfolio | Personal developer portfolio ________________________________|🔗 [Open](https://susheelcoder.netlify.app/) |
+| Chhath Puja | Event Web App | 🔗 [Open](https://vishnupur-chhath-puja-2025.netlify.app/home.html) |
+| Haproven | Tech Community | 🔗 [Open](https://haproven.netlify.app/) |
+| HaproID | Identity System | 🔗 [Open](https://haproID.netlify.app/) |
+| Attendance | Teacher & Student System | 🔗 [Open](https://smart-attendance-project-ims.netlify.app/) |
 </td>
 
 </tr>
