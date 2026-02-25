@@ -72,34 +72,38 @@ Building modern web experiences with performance, quality, and user-focused desi
 | 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | [Live Link](https://smart-attendance-project-ims.netlify.app/) |
 
 
-
-
 ---
 
-<table width="100%">
+
+<table width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td width="50%" >
+
+<!-- 🌐 CONNECT SECTION -->
+<td width="50%" valign="top" align="center">
 
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)  
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
 </td>
 
-<td width="50%" align="center">
+<!-- 📊 STATS SECTION -->
+<td width="50%" valign="top" align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" width="100%"/>
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" 
+width="100%"
+style="max-width:450px;"
+/>
 
 </td>
+
 </tr>
 </table>
-
----
-
 
 <p >
 <img 
