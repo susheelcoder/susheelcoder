@@ -1,5 +1,12 @@
 # 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Frontend+%2B+Backend+%7C+Scalable+Web+Apps&center=true&width=750&height=45">
+</p>
+
+
+
+
 <h3 align="center">💻 Full Stack Developer | Clean UI Enthusiast | Modern Web Builder</h3>
 
 <p align="center">
