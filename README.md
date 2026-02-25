@@ -50,13 +50,12 @@ Building modern web experiences with performance, quality, and user-focused desi
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript,  
-**Backend:**  PHP,APIs
+**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** PHP, REST APIs  
 **Database:** MySQL, MongoDB  
-**System Programming** C,C++,C#,Java
-**Tools:** Git, GitHub, VS Code, Netlify ,Figma
+**Tools:** Git, GitHub, VS Code, Netlify, Figma  
 
-
+**System Programming:** C, C++, C#, Java
 
 
 
@@ -105,6 +104,9 @@ style="max-width:450px;"
 </tr>
 </table>
 
+
+
+----
 <p >
 <img 
   src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
@@ -131,6 +133,9 @@ style="max-width:450px;"
 
 </td>
 
+
+
+
 <!-- 📊 STATS -->
 <td width="50%" align="center" valign="top">
 
@@ -147,3 +152,46 @@ width="90%"
 </table>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<!-- 🌐 CONNECT -->
+<div style="flex: 1; min-width: 300px; text-align: center;">
+
+## 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
+
+</div>
+
+<!-- 📊 STATS -->
+<div style="flex: 1; min-width: 300px; text-align: center;">
+
+## 📊 GitHub Stats
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" 
+style="width:100%; max-width:450px;"
+/>
+
+</div>
+
+</div>
