@@ -4,6 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Clean+UI+Lover;Modern+Web+Builder;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
+
+# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Frontend+%2B+Backend+%7C+Scalable+Web+Apps&center=true&width=750&height=45">
+</p>
+
 ### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
 Welcome to my GitHub profile!  
