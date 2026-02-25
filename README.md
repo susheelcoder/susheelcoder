@@ -63,17 +63,52 @@ Building modern web experiences with performance, quality, and user-focused desi
 
 
 
+
 ## 🌟 Featured Projects
 
-| Project | Description | Live Demo |
-|----------|------------|----------|
-| Portfolio Website | Personal developer portfolio |  [Live Link](https://susheelcoder.netlify.app/) |
-| Chhath Puja | Public event web app | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
-| Haproven Community | Tech community platform |  [Live Link ](https://haproven.netlify.app/)|
-| HaproID Platform | Secure user identity system | [Live Link](https://haproID.netlify.app/) |
-| Attendance System | Teacher & Student management app |  [Live Link](https://smart-attendance-project-ims.netlify.app/) |
+<div style="overflow-x:auto;">
 
+<table width="100%" border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; text-align: center;">
 
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Live Demo</th>
+</tr>
+
+<tr>
+<td>Portfolio Website</td>
+<td>Personal developer portfolio</td>
+<td><a href="https://susheelcoder.netlify.app/" target="_blank">Live Link</a></td>
+</tr>
+
+<tr>
+<td>Chhath Puja</td>
+<td>Public event web app</td>
+<td><a href="https://vishnupur-chhath-puja-2025.netlify.app/home.html" target="_blank">Live Link</a></td>
+</tr>
+
+<tr>
+<td>Haproven Community</td>
+<td>Tech community platform</td>
+<td><a href="https://haproven.netlify.app/" target="_blank">Live Link</a></td>
+</tr>
+
+<tr>
+<td>HaproID Platform</td>
+<td>Secure user identity system</td>
+<td><a href="https://haproID.netlify.app/" target="_blank">Live Link</a></td>
+</tr>
+
+<tr>
+<td>Attendance System</td>
+<td>Teacher & Student management app</td>
+<td><a href="https://smart-attendance-project-ims.netlify.app/" target="_blank">Live Link</a></td>
+</tr>
+
+</table>
+
+</div>
 
 
 ---
