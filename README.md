@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/) <b align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Clean+UI+Lover;Modern+Web+Builder;Open+Source+Enthusiast&center=true&width=500&height=45">
-</b>
+# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
+
+
 ### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
 Welcome to my GitHub profile!  
