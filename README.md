@@ -1,8 +1,12 @@
-<h1 >
+
+<h1 align="center">
   👋 Hello, I'm 
-  <a href="https://susheelcoder.netlify.app/">susheelcoder</a>
+  <a href="https://susheelcoder.netlify.app/" target="_blank">Susheel</a>
   &nbsp; | &nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Frontend+%2B+Backend+%7C+Scalable+Web+Apps&center=true&width=750&height=auto">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Clean+UI+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Learner&height=35&width=600&color=58A6FF&vCenter=true&size=28" 
+    style="vertical-align: middle;"
+  />
 </h1>
 
 
