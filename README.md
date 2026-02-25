@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
 
   <!-- 🟣 Frontend & UI -->
-  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JavaScript-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
 
@@ -28,30 +28,39 @@
 
 </p>
 
-
-###  Welcome to my GitHub profile!  
-
-I love building responsive, modern, and performance-optimized web apps using **HTML5, CSS3, JavaScript, and PHP**.  
-My goal is to design user-centric experiences and write clean, efficient code that speaks for itself.
-
 ---
+
+
+### 💻 Welcome to my GitHub profile!
+
+Building modern web experiences with performance, quality, and user-focused design in mind.
+
 
 ## 🚀 About Me
-- 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
-- 🧩 I enjoy solving **real-world problems with web technologies**
-- 🎯 Focus: **Frontend + Backend + UI/UX**
-- 💬 Ask me about **Full Stack Development**
-- 📫 Reach me at: [susheelcoder1@gmail.com](mailto:susheelcoder1@gmail.com)
 
----
+- 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
+- 💻 Full Stack Developer focused on building modern, responsive web applications
+- 🎨 Strong interest in UI/UX and clean user-centric design
+- ⚡ Passionate about performance optimization and technical SEO
+- 🧩 I enjoy solving real-world problems using web technologies
+- 💬 Ask me about Frontend, Backend, and Web Optimization
+- 📫 Reach me at:  susheelcoder@zohomail.in / susheelcoder1@gmail.com
+
+
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript,  
-**Backend:**  PHP  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, Netlify  
 
----
+**Frontend:** HTML5, CSS3, JavaScript,  
+**Backend:**  PHP,APIs
+**Database:** MySQL, MongoDB  
+**System Programming** C,C++,C#,Java
+**Tools:** Git, GitHub, VS Code, Netlify ,Figma
+
+
+
+
+
+
 
 ## 🌟 Featured Projects
 | Project | Description | Live Demo |
@@ -63,28 +72,34 @@ My goal is to design user-centric experiences and write clean, efficient code th
 | 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | [Live Link](https://smart-attendance-project-ims.netlify.app/) |
 
 
+
+
 ---
 
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+## 🌐 Connect
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)  
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
----
+</td>
+
+<td width="50%" align="center">
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheelcoder&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 
 
 <p >
@@ -93,3 +108,9 @@ My goal is to design user-centric experiences and write clean, efficient code th
   style="vertical-align: middle;"
 />
   </p>
+
+
+---
+
+
+
