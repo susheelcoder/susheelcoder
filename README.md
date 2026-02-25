@@ -1,7 +1,11 @@
 # 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
 
+<h3 align="center">💻 Full Stack Developer | Clean UI Enthusiast | Modern Web Builder</h3>
 
-### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend;Building+Scalable+Web+Apps;Open+Source+Learner&center=true&width=600&height=45">
+</p>
+
 
 Welcome to my GitHub profile!  
 I love building responsive, modern, and performance-optimized web apps using **HTML5, CSS3, JavaScript, and PHP**.  
