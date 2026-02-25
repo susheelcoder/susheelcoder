@@ -2,15 +2,7 @@
 <h1 align="center">
   👋 Hello, I'm Susheel kumar 
   <a href="https://susheelcoder.netlify.app/" target="_blank">(susheelcoder)</a>
-
 </h1>
-<p >
-<img 
-  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
-  style="vertical-align: middle;"
-/>
-  </p>
-
 
 <p align="center">
 
@@ -79,3 +71,11 @@ My goal is to design user-centric experiences and write clean, efficient code th
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheelcoder&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
+
+
+<p >
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
+  style="vertical-align: middle;"
+/>
+  </p>
