@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Susheel Kumar  
+# 👋 Hello, I'm Susheel Kumar  (Susheelcoder)
 ## 🌐 Full Stack Developer | SEO Optimized Web Developer  
 
 🔗 [Visit My Portfolio](https://susheelcoder.netlify.app/)
@@ -15,15 +15,34 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 ## 💎 Core Skills
 
+
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-16A34A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SEO-Optimized-DC2626?style=for-the-badge" />
+  <!-- 🔵 Core Role -->
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
+
+  <!-- 🟣 Frontend & UI -->
+  <img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
+
+  <!-- 🟠 Backend & Database -->
+  <img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Developer-F97316?style=for-the-badge" />
+
+  <!-- 🟢 Optimization & SEO -->
+  <img src="https://img.shields.io/badge/Performance-Optimized-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical%20SEO-Web%20Optimization-DC2626?style=for-the-badge" />
+
+  <!-- ⚫ Activity -->
+  <img src="https://img.shields.io/badge/Hackathon-Participant-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-111827?style=for-the-badge" />
 
 </p>
+
+
 
 ---
 
@@ -50,15 +69,16 @@ I focus on creating scalable digital solutions with great UI/UX and efficient ba
 
 ---
 
-## 📊 GitHub Activity
+<div style="flex: 1; min-width: 300px; text-align: center;">
 
-<p align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=tokyonight&hide_border=true" width="48%" />
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" 
+style="width:100%; max-width:450px;"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-</p>
+</div>
 
 ---
 
@@ -95,7 +115,7 @@ Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Po
 
 
 
-
+<!--  
 
 
 
@@ -111,24 +131,19 @@ Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Po
 
 <p align="center">
 
-  <!-- 🔵 Core Role -->
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
 
-  <!-- 🟣 Frontend & UI -->
   <img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
 
-  <!-- 🟠 Backend & Database -->
   <img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-Developer-F97316?style=for-the-badge" />
 
-  <!-- 🟢 Optimization & SEO -->
   <img src="https://img.shields.io/badge/Performance-Optimized-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20SEO-Web%20Optimization-DC2626?style=for-the-badge" />
 
-  <!-- ⚫ Activity -->
   <img src="https://img.shields.io/badge/Hackathon-Participant-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-111827?style=for-the-badge" />
 
@@ -206,7 +221,7 @@ Building modern web experiences with performance, quality, and user-focused desi
 
 
 
--->
+
 
 
 
@@ -224,9 +239,9 @@ Building modern web experiences with performance, quality, and user-focused desi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)   
 [![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
 
-</div> -->
+</div> 
 
-<!-- 📊 STATS -->
+<!-- 📊 STATS 
 <div style="flex: 1; min-width: 300px; text-align: center;">
 
 ## 📊 GitHub Stats
@@ -257,3 +272,17 @@ style="width:100%; max-width:450px;"
 
 
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SEO-Optimized-DC2626?style=for-the-badge" />
+
+</p>
+
+
+
+-->
