@@ -12,7 +12,15 @@
   </p>
 
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-PHP-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SEO-Web%20Optimization-red?style=for-the-badge" />
+
+</p>
 
 
 ###  Welcome to my GitHub profile!  
