@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 >
   👋 Hello, I'm 
   <a href="https://susheelcoder.netlify.app/">susheelcoder</a>
   &nbsp; | &nbsp;
