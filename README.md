@@ -4,7 +4,7 @@
   <a href="https://susheelcoder.netlify.app/" target="_blank">(susheelcoder)</a>
 
 </h1>
-<p align="center" >
+<p >
 <img 
   src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
   style="vertical-align: middle;"
