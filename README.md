@@ -1,6 +1,6 @@
 
 
-# 👋  Hello, I'm Susheel Kumar [susheelcoder](https://susheelcoder.netlify.app/)
+# 👋  Hello, I'm Susheel Kumar [(susheelcoder)](https://susheelcoder.netlify.app/)
 
 
 <p align="center">
