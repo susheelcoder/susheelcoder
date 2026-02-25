@@ -75,7 +75,7 @@ Building modern web experiences with performance, quality, and user-focused desi
 ---
 
 
-<table width="100%" cellspacing="0" cellpadding="10">
+<table width="100%"  cellspacing="0" cellpadding="10">
 <tr>
 
 <!-- 🌐 CONNECT SECTION -->
@@ -117,3 +117,33 @@ style="max-width:450px;"
 
 
 
+<table width="100%" cellspacing="0" cellpadding="10">
+<tr>
+
+<!-- 🌐 CONNECT -->
+<td width="50%" align="center" valign="top">
+
+## 🌐 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/susheelcoder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/susheel-kumar-20a198312)  
+[![Website](https://img.shields.io/badge/Website-Visit-orange?style=flat-square)](https://susheelcoder.netlify.app/)
+
+</td>
+
+<!-- 📊 STATS -->
+<td width="50%" align="center" valign="top">
+
+## 📊 GitHub Stats
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" 
+width="90%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
