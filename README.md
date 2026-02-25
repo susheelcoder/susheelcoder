@@ -35,12 +35,6 @@ My goal is to design user-centric experiences and write clean, efficient code th
 | 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | Coming Soon |
 ---
 
-
-
-## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=dark)](https://github.com/susheelcoder)
-
-
 ---
 
 ## 🌐 Connect with Me
