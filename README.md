@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1>
   👋 Hello, I'm 
   <a href="https://susheelcoder.netlify.app/" target="_blank">Susheel</a>
   &nbsp; | &nbsp;
@@ -10,9 +10,8 @@
 </h1>
 
 
-### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
+###  Welcome to my GitHub profile!  
 
-Welcome to my GitHub profile!  
 I love building responsive, modern, and performance-optimized web apps using **HTML5, CSS3, JavaScript, and PHP**.  
 My goal is to design user-centric experiences and write clean, efficient code that speaks for itself.
 
