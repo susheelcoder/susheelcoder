@@ -1,8 +1,9 @@
-# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Clean+UI+Lover;Modern+Web+Builder;Open+Source+Enthusiast&center=true&width=500&height=45">
-</p>
+<h1 align="center">
+  👋 Hello, I'm 
+  <a href="https://susheelcoder.netlify.app/">susheelcoder</a>
+  &nbsp; | &nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&height=30&width=250">
+</h1>
 
 
 # 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
