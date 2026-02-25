@@ -1,5 +1,5 @@
 
-<h1>
+<h1 align="center">
   👋 Hello, I'm Susheel kumar 
   <a href="https://susheelcoder.netlify.app/" target="_blank">(susheelcoder)</a>
   &nbsp; | &nbsp;
@@ -8,6 +8,8 @@
     style="vertical-align: middle;"
   />
 </h1>
+
+
 
 
 ###  Welcome to my GitHub profile!  
