@@ -2,15 +2,9 @@
   👋 Hello, I'm 
   <a href="https://susheelcoder.netlify.app/">susheelcoder</a>
   &nbsp; | &nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&height=30&width=250">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Frontend+%2B+Backend+%7C+Scalable+Web+Apps&center=true&width=750&height=auto">
 </h1>
 
-
-# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%7C+Frontend+%2B+Backend+%7C+Scalable+Web+Apps&center=true&width=750&height=45">
-</p>
 
 ### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
