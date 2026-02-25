@@ -46,3 +46,10 @@ My goal is to design user-centric experiences and write clean, efficient code th
 ## 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susheelcoder&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=susheelcoder&color=blueviolet)
