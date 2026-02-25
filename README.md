@@ -1,3 +1,109 @@
+# 👋 Hello, I'm Susheel Kumar  
+## 🌐 Full Stack Developer | SEO Optimized Web Developer  
+
+🔗 [Visit My Portfolio](https://susheelcoder.netlify.app/)
+
+---
+
+## 🚀 Professional Summary
+
+I build modern, responsive, and performance-optimized web applications with clean architecture and strong SEO fundamentals.
+
+I focus on creating scalable digital solutions with great UI/UX and efficient backend integration.
+
+---
+
+## 💎 Core Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JavaScript-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SEO-Optimized-DC2626?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript  
+**Backend:** PHP, REST APIs  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, Netlify, Figma  
+
+**Programming:** C, C++, C#, Java  
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Live |
+|----------|------------|------|
+| Portfolio | Personal developer portfolio | 🔗 [Open](https://susheelcoder.netlify.app/) |
+| Chhath Puja | Event Information Web App | 🔗 [Open](https://vishnupur-chhath-puja-2025.netlify.app/home.html) |
+| Haproven | Tech Community Platform | 🔗 [Open](https://haproven.netlify.app/) |
+| HaproID | Secure Identity System | 🔗 [Open](https://haproID.netlify.app/) |
+| Attendance | Teacher & Student System | 🔗 [Open](https://smart-attendance-project-ims.netlify.app/) |
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/susheelcoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://susheelcoder.netlify.app)
+
+</p>
+
+---
+
+🔎 **Keywords:**  
+Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Portfolio | Responsive Web Applications
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 👋  Hello, I'm Susheel Kumar [(susheelcoder)](https://susheelcoder.netlify.app/)
@@ -134,10 +240,14 @@ style="width:100%; max-width:450px;"
 
 </div>
 
-
+🔎 Keywords: Full Stack Developer in India, Web Developer, PHP Developer, SEO Optimized Websites, Responsive Web Design
 
 ---
 ---
+
+
+
+
 
 
 
