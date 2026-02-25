@@ -61,14 +61,19 @@ Building modern web experiences with performance, quality, and user-focused desi
 
 
 
+
+
 ## 🌟 Featured Projects
+
 | Project | Description | Live Demo |
-|----------|--------------|------------|
-| 🧾 **Portfolio Website** | My personal developer portfolio built with HTML, CSS, JS | [Live Link](https://susheelcoder.netlify.app/) |
-| 🚀 **Chhath Puja**  | A Web App for Public Information & Events | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
-| 🚀 **Haproven community** |Haproven is a tech-focused community and creative team. We turn ideas into real-world solutions by working together and using modern technology. | [Live Link ](https://haproven.netlify.app/)|
-| 🆔 **HaproID Platform** | A modern web-based identity system for managing user records securely and efficiently | [Live Link](https://haproID.netlify.app/) |
-| 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | [Live Link](https://smart-attendance-project-ims.netlify.app/) |
+|----------|------------|----------|
+| Portfolio Website | Personal developer portfolio |  [Live Link](https://susheelcoder.netlify.app/) |
+| Chhath Puja | Public event web app | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
+| Haproven Community | Tech community platform |  [Live Link ](https://haproven.netlify.app/)|
+| HaproID Platform | Secure user identity system | [Live Link](https://haproID.netlify.app/) |
+| Attendance System | Teacher & Student management app |  [Live Link](https://smart-attendance-project-ims.netlify.app/) |
+
+
 
 
 ---
