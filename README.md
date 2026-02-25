@@ -1,7 +1,7 @@
 
 <h1>
-  👋 Hello, I'm 
-  <a href="https://susheelcoder.netlify.app/" target="_blank">Susheel</a>
+  👋 Hello, I'm Susheel kumar 
+  <a href="https://susheelcoder.netlify.app/" target="_blank">(susheelcoder)</a>
   &nbsp; | &nbsp;
   <img 
     src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Clean+UI+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Learner&height=35&width=600&color=58A6FF&vCenter=true&size=28" 
