@@ -1,15 +1,43 @@
-# 👋 Hello, I'm [susheelcoder](https://susheelcoder.netlify.app/)
-### 💻 Full Stack Developer | Passionate about Clean UI, Modern Web & Scalable Code
 
-Welcome to my GitHub profile!  
-I love building responsive, modern, and performance-optimized web apps using **HTML, CSS, JavaScript, Node.js, and PHP**.  
+
+# 👋  Hello, I'm Susheel Kumar [(susheelcoder)](https://susheelcoder.netlify.app/)
+
+
+<p align="center">
+
+  <!-- 🔵 Core Role -->
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-1F6FEB?style=for-the-badge" />
+
+  <!-- 🟣 Frontend & UI -->
+  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JavaScript-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Focused-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PWA-Developer-6B21A8?style=for-the-badge" />
+
+  <!-- 🟠 Backend & Database -->
+  <img src="https://img.shields.io/badge/Backend-PHP-E67E22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-Developer-F97316?style=for-the-badge" />
+
+  <!-- 🟢 Optimization & SEO -->
+  <img src="https://img.shields.io/badge/Performance-Optimized-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical%20SEO-Web%20Optimization-DC2626?style=for-the-badge" />
+
+  <!-- ⚫ Activity -->
+  <img src="https://img.shields.io/badge/Hackathon-Participant-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-111827?style=for-the-badge" />
+
+</p>
+
+
+###  Welcome to my GitHub profile!  
+
+I love building responsive, modern, and performance-optimized web apps using **HTML5, CSS3, JavaScript, and PHP**.  
 My goal is to design user-centric experiences and write clean, efficient code that speaks for itself.
 
 ---
 
 ## 🚀 About Me
 - 🌐 Personal Website: [susheelcoder.netlify.app](https://susheelcoder.netlify.app/)
-- 👨‍💻 I’m currently learning **Next.js & TypeScript**
 - 🧩 I enjoy solving **real-world problems with web technologies**
 - 🎯 Focus: **Frontend + Backend + UI/UX**
 - 💬 Ask me about **Full Stack Development**
@@ -18,8 +46,8 @@ My goal is to design user-centric experiences and write clean, efficient code th
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-**Backend:** Node.js, Express.js, PHP  
+**Frontend:** HTML, CSS, JavaScript,  
+**Backend:**  PHP  
 **Database:** MySQL, MongoDB  
 **Tools:** Git, GitHub, VS Code, Netlify  
 
@@ -30,20 +58,9 @@ My goal is to design user-centric experiences and write clean, efficient code th
 |----------|--------------|------------|
 | 🧾 **Portfolio Website** | My personal developer portfolio built with HTML, CSS, JS | [Live Link](https://susheelcoder.netlify.app/) |
 | 🚀 **Chhath Puja**  | A Web App for Public Information & Events | [Live Link](https://vishnupur-chhath-puja-2025.netlify.app/home.html)|
-| 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | Coming Soon |
-| 🚀 **Hackathon Project - Duality AI** | AI-based space station simulation entry | Coming Soon |
-
----
-
-## 🧠 Currently Exploring
-- Next.js 15  
-- REST API best practices  
-- AI tools for Web Development  
-
----
-
-## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=dark)](https://github.com/susheelcoder)
+| 🚀 **Haproven community** |Haproven is a tech-focused community and creative team. We turn ideas into real-world solutions by working together and using modern technology. | [Live Link ](https://haproven.netlify.app/)|
+| 🆔 **HaproID Platform** | A modern web-based identity system for managing user records securely and efficiently | [Live Link](https://haproID.netlify.app/) |
+| 🎓 **Attendance System** | A web app for teachers & students (Node.js + MySQL) | [Live Link](https://smart-attendance-project-ims.netlify.app/) |
 
 
 ---
@@ -55,21 +72,24 @@ My goal is to design user-centric experiences and write clean, efficient code th
 
 ---
 
-## 🧾 Structured Data (for Website SEO)
-> *(This section shows how SEO data is added on my website — it won’t run on GitHub)*
+## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=dark&hide_border=true&background=0d1117" />
 
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "susheelcoder",
-  "url": "https://susheelcoder.netlify.app/",
-  "image": "https://susheelcoder.netlify.app/preview.jpg",
-  "sameAs": [
-    "https://github.com/susheelcoder"
-  ],
-  "jobTitle": "Full Stack Developer",
-  "description": "Full Stack Developer specializing in HTML, CSS, JavaScript, PHP, and C — building modern, responsive web apps."
-}
+---
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=susheelcoder&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=susheelcoder&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susheelcoder&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 
+<p >
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%2B+Backend+Developer;Responsive+Web+Developer;Technical+SEO+Focused;Clean+Code+Builder&height=35&width=650&color=58A6FF&vCenter=true&size=26" 
+  style="vertical-align: middle;"
+/>
+  </p>
