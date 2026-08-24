@@ -80,44 +80,9 @@ Passionate about building tools, platforms, and open-source solutions that help 
 
 
 
-## GitHub Stats
-
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codersusheel&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00"
-  onerror="this.src='https://github-readme-stats.vercel.app/api?username=Codersusheel&show_icons=true&theme=dark&hide_border=true&bg_color=ffffff00'"
-  alt="SVG" style="width:100%; height:auto;" />
-
-## GitHub Stats
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Codersusheel&theme=dark&hide_border=true&background=0d1117" 
-style="width:100%; max-width:450px;"
-/>
 
 
 
-
-
-## GitHub Summary
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codersusheel&theme=transparent"
-  style="width:100%; max-width:450px;"
-/>
-
-
-## GitHub Contribution Analytics
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Codersusheel&theme=github-compact&hide_border=true&area=true&bg_color=00000000"
-  style="width:100%; max-width:450px;"
-/>
-
----
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersusheel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-  style="width:100%; max-width:450px ;height:auto; "
-/>
 
 
 
