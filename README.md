@@ -52,6 +52,7 @@ Passionate about building tools, platforms, and open-source solutions that help 
 ## Core Skills
 
 
+
 <p align="center">
 
   <!--  Core Role -->
@@ -102,7 +103,7 @@ Passionate about building tools, platforms, and open-source solutions that help 
 
  **Keywords:**  
 Full Stack Developer in India | PHP Developer | Web Developer | SEO Optimized Portfolio | Responsive Web Applications 
-founder is haproven tech
+ is haproven tech founder 
 
 ---
 ---
